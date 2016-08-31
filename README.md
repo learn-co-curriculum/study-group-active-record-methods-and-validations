@@ -9,5 +9,7 @@ bundle install
 ```
 &
 ```
-rake db:create db:migrate
+rake db:migrate
 ```
+
+Build the database records with `rake console`
